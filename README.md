@@ -27,7 +27,7 @@ Java • Python • SQL • Spring Boot • AWS (S3, SQS) • Docker • Git •
 
 
 
-> *“Code. Learn. Improve. Repeat.”*
+> *“Code. Learn. Improve. Repeat.”*  [LinkedIn](https://linkedin.com/in/dheepak-karan-es) | [X](https://x.com/karan_1422) | [Reddit](https://reddit.com/user/karan1422) | [Quora](https://quora.com/profile/Karan-1692) | [Medium](https://medium.com/@@dheepakkaran)
 
 ---
-[LinkedIn](https://linkedin.com/in/dheepak-karan-es) | [X](https://x.com/karan_1422) | [Reddit](https://reddit.com/user/karan1422) | [Quora](https://quora.com/profile/Karan-1692) | [Medium](https://medium.com/@@dheepakkaran)
+
