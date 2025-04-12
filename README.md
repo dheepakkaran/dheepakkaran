@@ -23,7 +23,9 @@ Java • Python • SQL • Spring Boot • AWS (S3, SQS) • Docker • Git •
   Built a lightweight, event-driven notification system with Kafka.
 
 
----
+
+
+
 
 > *“Code. Learn. Improve. Repeat.”*
 
