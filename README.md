@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4EC9B0&center=true&vCenter=true&width=680&lines=_%+whoami;Dheepak+Karan;_%+cat+role.txt;MS+ECE+%40+Northeastern+%7C+ML+%2B+CV+%2B+Systems;_%+echo+%24STATUS;Open+to+ML+%2F+SWE+Co-op+%E2%80%94+2025)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4EC9B0&center=true&vCenter=true&width=680&lines=_Dheepak+Karan;MS+ECE+%40+Northeastern+%7C+ML+%2B+CV+%2B+Systems;Open+to+ML+%2F+SWE+Co-op+%E2%80%94+2025)](https://git.io/typing-svg)
 
 <br/>
 
