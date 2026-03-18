@@ -1,33 +1,114 @@
-# Dheepak Karan ES
+<div align="center">
 
-Hey! 👋 I'm a passionate developer exploring the world of Data Science and Machine Learning. I enjoy building efficient systems and solving problems with code and curiosity.
+# Hey, I'm Dheepak Karan 👋
 
----
+**MS in Electrical & Computer Engineering @ Northeastern University**
+*Computer Vision · Machine Learning · Algorithms*
 
-## ⚙️ Skills (Quick Glance)
-Java • Python • SQL • Spring Boot • AWS (S3, SQS) • Docker • Git • Pandas • scikit-learn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheepak-karan-es)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/karan_1422)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@dheepakkaran)
 
----
-
-## 🛠️ Projects
-- **Subscription Management Microservice**  
-  Integrated AWS S3/SQS, optimized queries for 25% faster response.
-
-- **Analytics API for Admin Portal**  
-  Designed and built scalable endpoints for tracking user metrics.
-
-- **ML Models for Data Prediction**  
-  Developed models using real-world datasets for classification and forecasting.
-
-- **Notification System**  
-  Built a lightweight, event-driven notification system with Kafka.
-
-
-
-
-
-
-> *“Code. Learn. Improve. Repeat.”*  [LinkedIn](https://linkedin.com/in/dheepak-karan-es) | [X](https://x.com/karan_1422) | [Reddit](https://reddit.com/user/karan1422) | [Quora](https://quora.com/profile/Karan-1692) | [Medium](https://medium.com/@@dheepakkaran)
+</div>
 
 ---
 
+## About Me
+
+I'm a grad student at Northeastern with ~1.5 years of SWE experience, now going deep into ML and Computer Vision. I like building things that actually work — from scalable backend services to ML pipelines that ship. Currently looking for **ML/SWE co-op opportunities** for 2025.
+
+- 🎓 MS ECE @ Northeastern University, Boston (concentrating in CV, ML & Algorithms)
+- 💼 Former Software Engineer — built production systems at Guardian Life
+- 🔬 Research focus: fairness in networks, ML for systems optimization
+- 🌱 Currently exploring: Reinforcement Learning, SimPy-based network simulation, XGBoost pipelines
+
+---
+
+## Featured Projects
+
+### 🔗 [FairShare-WiFi](https://github.com/dheepak-karan-es/fairshare-wifi)
+> Bandwidth fairness in public WiFi using a two-layer ML architecture
+
+Built a network simulation with **SimPy** that applies a **Random Forest Classifier** to identify unknown user behavior, then uses a **Q-Learning agent** to dynamically adjust WFQ weights — targeting fairness (Jain's Fairness Index) rather than just QoS. Differentiates from ReinWiFi by classifying unknown intent and prioritizing equity over throughput.
+
+`Python` `SimPy` `scikit-learn` `Reinforcement Learning` `Q-Learning` `Random Forest`
+
+---
+
+### 🔗 [Pump It Up — Water Pump Failure Prediction](https://github.com/dheepak-karan-es/pump-it-up)
+> XGBoost classification on the DrivenData competition dataset
+
+Multi-class classification pipeline for predicting water pump functionality status. Engineered features, tuned hyperparameters collaboratively (class-shared exploration sheet), and optimized for accuracy on real-world Tanzanian infrastructure data.
+
+`R` `XGBoost` `tidyverse` `caret` `Feature Engineering`
+
+---
+
+### 🔗 [Subscription Management Microservice](https://github.com/dheepak-karan-es/subscription-service)
+> Production-grade microservice with AWS integration
+
+Designed and built a microservice handling subscription lifecycle management. Integrated **AWS S3** for document storage and **AWS SQS** for async event processing, with query optimizations that brought API response time down by **25%**.
+
+`Java` `Spring Boot` `AWS S3` `AWS SQS` `PostgreSQL` `Docker`
+
+---
+
+### 🔗 [Analytics API for Admin Portal](https://github.com/dheepak-karan-es/analytics-api)
+> Scalable REST endpoints for user metrics tracking
+
+Designed and implemented a RESTful analytics layer powering an internal admin dashboard. Built for extensibility with clean separation between data access, business logic, and API layers.
+
+`Java` `Spring Boot` `SQL` `REST API` `PostgreSQL`
+
+---
+
+### 🔗 [Event-Driven Notification System](https://github.com/dheepak-karan-es/notification-system)
+> Lightweight Kafka-powered notification pipeline
+
+Built an event-driven system using **Apache Kafka** to decouple notification delivery from core application logic. Supports multi-channel delivery with retry handling and dead-letter queues.
+
+`Java` `Apache Kafka` `Spring Boot` `Docker`
+
+---
+
+## Tech Stack
+
+**Languages**
+`Python` `Java` `R` `SQL` `Bash`
+
+**ML / Data**
+`scikit-learn` `XGBoost` `Pandas` `NumPy` `PyTorch` `OpenCV`
+
+**Backend / Infra**
+`Spring Boot` `FastAPI` `AWS (S3, SQS)` `Docker` `PostgreSQL` `Apache Kafka`
+
+**Tools**
+`Git` `RStudio` `SimPy` `LaTeX` `Linux`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Dheepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheepak-karan-es&show_icons=true&hide_border=true&theme=default&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheepak-karan-es&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+## Currently
+
+- 📚 Coursework: Machine Learning, Computer Vision, VLSI Design (EECE 7353)
+- 🛠️ Building: FairShare-WiFi — fairness-driven bandwidth allocation via RL
+- 🎯 Goal: ML/SWE co-op for Spring/Summer 2025
+
+---
+
+<div align="center">
+
+*"Build. Break. Learn. Repeat."*
+
+</div>
