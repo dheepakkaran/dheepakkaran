@@ -87,13 +87,13 @@ Built an event-driven system using **Apache Kafka** to decouple notification del
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-![Dheepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheepak-karan-es&show_icons=true&hide_border=true&theme=default&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dheepak-karan-es&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheepak-karan-es&layout=compact&hide_border=true&theme=default)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dheepak-karan-es&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
