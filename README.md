@@ -1,114 +1,156 @@
 <div align="center">
 
-# Hey, I'm Dheepak Karan 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dheepak+Karan.;MS+ECE+%40+Northeastern+University.;Building+ML+systems+that+ship.;Computer+Vision+%7C+ML+%7C+Algorithms.;Open+to+ML+%2F+SWE+Co-op+%E2%86%92)](https://git.io/typing-svg)
 
-**MS in Electrical & Computer Engineering @ Northeastern University**
-*Computer Vision · Machine Learning · Algorithms*
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheepak-karan-es)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/karan_1422)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@dheepakkaran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheepak-karan-es)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/karan_1422)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dheepakkaran)
+[![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karan.d@northeastern.edu)
 
 </div>
 
 ---
 
-## About Me
-
-I'm a grad student at Northeastern with ~1.5 years of SWE experience, now going deep into ML and Computer Vision. I like building things that actually work — from scalable backend services to ML pipelines that ship. Currently looking for **ML/SWE co-op opportunities** for 2025.
-
-- 🎓 MS ECE @ Northeastern University, Boston (concentrating in CV, ML & Algorithms)
-- 💼 Former Software Engineer — built production systems at Guardian Life
-- 🔬 Research focus: fairness in networks, ML for systems optimization
-- 🌱 Currently exploring: Reinforcement Learning, SimPy-based network simulation, XGBoost pipelines
-
----
-
-## Featured Projects
-
-### 🔗 [FairShare-WiFi](https://github.com/dheepak-karan-es/fairshare-wifi)
-> Bandwidth fairness in public WiFi using a two-layer ML architecture
-
-Built a network simulation with **SimPy** that applies a **Random Forest Classifier** to identify unknown user behavior, then uses a **Q-Learning agent** to dynamically adjust WFQ weights — targeting fairness (Jain's Fairness Index) rather than just QoS. Differentiates from ReinWiFi by classifying unknown intent and prioritizing equity over throughput.
-
-`Python` `SimPy` `scikit-learn` `Reinforcement Learning` `Q-Learning` `Random Forest`
+```python
+dheepak = {
+    "role"        : "MS ECE @ Northeastern University",
+    "focus"       : ["Computer Vision", "Machine Learning", "Algorithms"],
+    "experience"  : "~1.5 yrs SWE (Guardian Life)",
+    "building"    : "FairShare-WiFi — RL-based bandwidth fairness in public networks",
+    "open_to"     : "ML / SWE Co-op (2025)",
+    "stack"       : ["Python", "Java", "PyTorch", "Spring Boot", "AWS", "Docker"],
+}
+```
 
 ---
 
-### 🔗 [Pump It Up — Water Pump Failure Prediction](https://github.com/dheepak-karan-es/pump-it-up)
-> XGBoost classification on the DrivenData competition dataset
+## ⚡ Featured Projects
 
-Multi-class classification pipeline for predicting water pump functionality status. Engineered features, tuned hyperparameters collaboratively (class-shared exploration sheet), and optimized for accuracy on real-world Tanzanian infrastructure data.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`R` `XGBoost` `tidyverse` `caret` `Feature Engineering`
+### 🛰️ FairShare-WiFi
+> Two-layer ML for bandwidth fairness in public WiFi
+
+- **Random Forest** classifies unknown user behavior
+- **Q-Learning agent** dynamically adjusts WFQ weights
+- Optimizes Jain's Fairness Index — not just throughput
+- Differentiator: classifies unknown intent (vs ReinWiFi)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![SimPy](https://img.shields.io/badge/SimPy-darkgreen?style=flat)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![RL](https://img.shields.io/badge/Q--Learning-00F5FF?style=flat)
+
+</td>
+<td width="50%" valign="top">
+
+### 💧 Pump It Up
+> XGBoost classification on DrivenData competition
+
+- Predicts water pump functionality (3-class)
+- Feature engineering on real Tanzanian infra data
+- Collaborative hyperparameter tuning pipeline
+- Optimized for leaderboard accuracy
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat)
+![caret](https://img.shields.io/badge/caret-blue?style=flat)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Subscription Microservice
+> Production-grade service @ Guardian Life
+
+- AWS S3 + SQS integration for async processing
+- Query optimizations → **25% faster** API response
+- Containerized with Docker, deployed on AWS
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Event-Driven Notification System
+> Kafka-powered async notification pipeline
+
+- Decoupled delivery from core app logic
+- Multi-channel support with retry + DLQ handling
+- Lightweight, horizontally scalable design
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔗 [Subscription Management Microservice](https://github.com/dheepak-karan-es/subscription-service)
-> Production-grade microservice with AWS integration
+## 🧠 Tech Stack
 
-Designed and built a microservice handling subscription lifecycle management. Integrated **AWS S3** for document storage and **AWS SQS** for async event processing, with query optimizations that brought API response time down by **25%**.
+**ML / AI**
 
-`Java` `Spring Boot` `AWS S3` `AWS SQS` `PostgreSQL` `Docker`
-
----
-
-### 🔗 [Analytics API for Admin Portal](https://github.com/dheepak-karan-es/analytics-api)
-> Scalable REST endpoints for user metrics tracking
-
-Designed and implemented a RESTful analytics layer powering an internal admin dashboard. Built for extensibility with clean separation between data access, business logic, and API layers.
-
-`Java` `Spring Boot` `SQL` `REST API` `PostgreSQL`
-
----
-
-### 🔗 [Event-Driven Notification System](https://github.com/dheepak-karan-es/notification-system)
-> Lightweight Kafka-powered notification pipeline
-
-Built an event-driven system using **Apache Kafka** to decouple notification delivery from core application logic. Supports multi-channel delivery with retry handling and dead-letter queues.
-
-`Java` `Apache Kafka` `Spring Boot` `Docker`
-
----
-
-## Tech Stack
-
-**Languages**
-`Python` `Java` `R` `SQL` `Bash`
-
-**ML / Data**
-`scikit-learn` `XGBoost` `Pandas` `NumPy` `PyTorch` `OpenCV`
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Backend / Infra**
-`Spring Boot` `FastAPI` `AWS (S3, SQS)` `Docker` `PostgreSQL` `Apache Kafka`
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 **Tools**
-`Git` `RStudio` `SimPy` `LaTeX` `Linux`
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
-## GitHub Activity
+## 📡 Currently
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dheepak-karan-es&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dheepak-karan-es&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Currently
-
-- 📚 Coursework: Machine Learning, Computer Vision, VLSI Design (EECE 7353)
-- 🛠️ Building: FairShare-WiFi — fairness-driven bandwidth allocation via RL
-- 🎯 Goal: ML/SWE co-op for Spring/Summer 2025
+| Status | What |
+|--------|------|
+| 📚 Coursework | Machine Learning · Computer Vision · VLSI Design (EECE 7353) |
+| 🛠️ Building | FairShare-WiFi — RL-driven fairness in public WiFi networks |
+| 🎯 Looking for | ML / SWE Co-op — Spring or Summer 2025 |
+| 📖 Exploring | Reinforcement Learning · SimPy · Network simulation |
 
 ---
 
 <div align="center">
 
-*"Build. Break. Learn. Repeat."*
+```
+> while not_hired:
+>     build()
+>     break_things()
+>     learn()
+>     repeat()
+```
+
+*Open to co-op opportunities — let's connect.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheepak-karan-es)
 
 </div>
